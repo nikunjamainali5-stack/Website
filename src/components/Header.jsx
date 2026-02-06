@@ -37,7 +37,7 @@ export default function Header() {
       />
 
       <h3 className="flex items-end gap-2 text-xl md:text-2xl mb-3 font-Ovo">
-        Hi! I&apos;m Kiran Pokhrel
+        Hi! I&apos;m Nikunja Mainali
         <img
           src="./assets/hand-icon.png"
           alt="Wave"
